@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "name": "Claude官网",
+    "description": "当前最流行的大模型之一，尤其在长文本生成和代码生成方面，遥遥领先。",
+    "url": "https://claude.ai"
+  }
+]
