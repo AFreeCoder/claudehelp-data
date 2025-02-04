@@ -40,7 +40,7 @@ Claude注册订阅升级是公认的难，在这个注册过程中，你需要�
 * **选择小众的节点，或者小众的国家，降低被封的概率**
 * **尽量不要使用一些专用网络，比如教育网（如果Claude 网页提示访问异常，可以切换手机热点试试）**
 
-**关于海外邮箱、海外手机号、海外信用卡问题**，对于不想麻烦的朋友，我都建议使用[ WildCard 会员服务](https://bewildcard.com/i/GPTXYZ)（👉[WildCard 会员服务开通教程](https://www.openaijiaocheng.com/wildcard-virtual-credit-card-tutorial)），几十块钱，就可以享有以下服务：
+**关于海外邮箱、海外手机号、海外信用卡问题**，对于不想麻烦的朋友，我都建议使用[ WildCard 会员服务](https://yeka.ai/i/GPTXYZ)（👉[WildCard 会员服务开通教程](https://www.openaijiaocheng.com/wildcard-virtual-credit-card-tutorial)），几十块钱，就可以享有以下服务：
 
 * 免费申请海外手机号（超过一定额度后需付费购买，但是也很便宜）
 * 免费申请海外邮箱（超过一定额度后需要付费购买，但是也很便宜）
@@ -52,7 +52,7 @@ Claude注册订阅升级是公认的难，在这个注册过程中，你需要�
 
 其实 WildCard 原本是一家虚拟信用卡服务提供商，只是为了扩展业务，才开发这些功能周边，没想到这些功能最终变成了能力护城河。
 
-当然您也可以自己去注册谷歌邮箱（网上教程很多）、使用其它接码平台（比如 sms-active，注意尽量选小众国家的号码）。如果后续您有订阅需求的话，则强烈建议使用开通 [WildCard 会员服务](https://bewildcard.com/i/GPTXYZ)！
+当然您也可以自己去注册谷歌邮箱（网上教程很多）、使用其它接码平台（比如 sms-active，注意尽量选小众国家的号码）。如果后续您有订阅需求的话，则强烈建议使用开通 [WildCard 会员服务](https://yeka.ai/i/GPTXYZ)！
 
 以下一站式教程都是基于开通了WildCard 服务的基础（👉[WildCard 会员服务开通教程](https://www.openaijiaocheng.com/wildcard-virtual-credit-card-tutorial)）
 
@@ -76,7 +76,7 @@ Claude官网：[https://claude.ai](https://claude.ai)
 
 ### 3.3 手机号短信验证（要求海外手机号）
 
-首先说明，**没有任何一家手机号接码平台能保证百分之百成功，包括本文推荐的** **[WildCard](https://bewildcard.com/i/GPTXYZ)** ，除非购买一张真正的实体海外手机卡（找万能的淘宝），这种方式成本会高不少。
+首先说明，**没有任何一家手机号接码平台能保证百分之百成功，包括本文推荐的** **[WildCard](https://yeka.ai/i/GPTXYZ)** ，除非购买一张真正的实体海外手机卡（找万能的淘宝），这种方式成本会高不少。
 
 接码平台的特点是这些手机号都在一个大池子里，一个号可能被反复使用，使用的少的号码就不太容易出问题。所以这一步需要注意的是，尽可能挑小众的国家，提高成功率。
 
@@ -84,11 +84,11 @@ Claude官网：[https://claude.ai](https://claude.ai)
 
 ​![image](https://tjjsjwhj-blog.oss-cn-beijing.aliyuncs.com/hexo/202412020041399.png)​
 
-在这一步，我们可以打开**[WildCard](https://bewildcard.com/i/GPTXYZ)** 官网，找左下角的【海外手机号】，申请免费的海外手机号，每个用户有**3次免费申请机会**（次数用完之后，可以付费购买，一次3块钱左右）：
+在这一步，我们可以打开**[WildCard](https://yeka.ai/i/GPTXYZ)** 官网，找左下角的【海外手机号】，申请免费的海外手机号，每个用户有**3次免费申请机会**（次数用完之后，可以付费购买，一次3块钱左右）：
 
 ​![image](https://tjjsjwhj-blog.oss-cn-beijing.aliyuncs.com/hexo/202412020041821.png)​
 
-申请的时候，需要选择注册的服务（这里我们就可以看到**[WildCard](https://bewildcard.com/i/GPTXYZ)**的服务完全是围绕人工智能的），当然我们选择 Claude：
+申请的时候，需要选择注册的服务（这里我们就可以看到**[WildCard](https://yeka.ai/i/GPTXYZ)**的服务完全是围绕人工智能的），当然我们选择 Claude：
 
 ‍
 
@@ -136,7 +136,7 @@ Claude官网：[https://claude.ai](https://claude.ai)
 
 对于免费用户而言，仅仅是尝鲜的话，足够使用了。但是如果稍微深入使用一些，最好是升级 pro 会员，价格和 ChatGPT Plus一样，都是20美元一个月（也不知道是不是商量好的，各大 AI 平台，会员月费都是20美元）。
 
-如果你开通了[WildCard 会员服务](https://bewildcard.com/i/GPTXYZ)，升级就很简单了。下面是 Claude Pro 的订阅教程视频：
+如果你开通了[WildCard 会员服务](https://yeka.ai/i/GPTXYZ)，升级就很简单了。下面是 Claude Pro 的订阅教程视频：
 
 <video controls="controls" src="https://wildcard.oss-cn-hangzhou.aliyuncs.com/faq/03-Claude%E8%AE%A2%E9%98%85%E6%95%99%E7%A8%8B11.05.mp4" data-src=""></video>
 
@@ -154,11 +154,11 @@ Claude官网：[https://claude.ai](https://claude.ai)
 
 ​![image](https://tjjsjwhj-blog.oss-cn-beijing.aliyuncs.com/hexo/202412020041920.png)​
 
-打开 **[WildCard](https://bewildcard.com/i/GPTXYZ)** 官网，点击左侧的【我的卡片】，即可看到虚拟信用卡的全部信息，更贴心的是**[WildCard](https://bewildcard.com/i/GPTXYZ)**还为我们准备详细的账单地址，只要复制过去即可：
+打开 **[WildCard](https://yeka.ai/i/GPTXYZ)** 官网，点击左侧的【我的卡片】，即可看到虚拟信用卡的全部信息，更贴心的是**[WildCard](https://yeka.ai/i/GPTXYZ)**还为我们准备详细的账单地址，只要复制过去即可：
 
 ​![image](https://tjjsjwhj-blog.oss-cn-beijing.aliyuncs.com/hexo/202412020041978.png)​
 
-### 4.2 绑定**[WildCard](https://bewildcard.com/i/GPTXYZ)**信用卡
+### 4.2 绑定**[WildCard](https://yeka.ai/i/GPTXYZ)**信用卡
 
 ​![image](https://tjjsjwhj-blog.oss-cn-beijing.aliyuncs.com/hexo/202412020041220.png)​
 
@@ -175,7 +175,7 @@ Claude 风控策略十分严格，被封一般有以下几个原因：
 * **网络问题**：我的建议是选用Claude 支持的国家的节点（👉[Claude 支持的国家](https://support.anthropic.com/zh-CN/articles/8461763-%E6%88%91%E5%9C%A8%E5%93%AA%E9%87%8C%E5%8F%AF%E4%BB%A5%E8%AE%BF%E9%97%AEclaude-ai)）；选择小众的节点，或者小众的国家，降低被封的概率；尽量不要使用一些专用网络，比如教育网（如果Claude 网页提示访问异常，可以切换手机热点试试）
 * **手机号问题**：没什么太好的办法，只能尽量使用小众国家的手机号
 
-如果运气太差被封，只能重新申请一个账号了，所幸在开通了[WildCard 会员服务](https://bewildcard.com/i/GPTXYZ)的情况下，新注册一个账号的成本并不高。
+如果运气太差被封，只能重新申请一个账号了，所幸在开通了[WildCard 会员服务](https://yeka.ai/i/GPTXYZ)的情况下，新注册一个账号的成本并不高。
 
 ### 5.2 Claude 升级未成功，但是扣款了怎么办
 
