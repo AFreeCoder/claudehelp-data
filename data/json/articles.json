@@ -1,10 +1,18 @@
 [
   {
+    "id": "2025-latest-claude-code-domestic-use-detailed-tutorial",
+    "title": "【2025最新】Claude Code 国内使用详细教程",
+    "description": "2025年推出的AI编程助手Claude Code，结合自然语言指令与IDE深度集成，支持前端、后端和DevOps开发任务。国内用户需科学上网、拥有Claude账号并开通Pro会员方可使用。安装依赖后，通过命令行或IDE启动Claude Code并描述需求即可使用。详细教程和常见问题可参考官方文档和相关介绍。",
+    "date": "2025-07-09T17:43:14.939Z",
+    "lastModified": "2025-07-09T17:43:15Z",
+    "path": "data/md/2025-latest-claude-code-domestic-use-detailed-tutorial.md"
+  },
+  {
     "id": "how-to-avoid--claude-account-be-banned",
     "title": " Claude 账号又被封了？如何提高 Claude 账号存活率？2024最新解决方案",
     "description": "本文针对Claude账号被封问题提出解决方案，包括处理网络、邮箱、海外手机号和虚拟信用卡四个因素，建议选择合适的VPN节点、使用海外邮箱和手机号，以及考虑使用虚拟信用卡降低被封概率。",
     "date": "2024-12-03T16:45:47.364Z",
-    "lastModified": "2024-12-03T16:45:47Z",
+    "lastModified": "2025-02-04T15:40:59Z",
     "path": "data/md/how-to-avoid--claude-account-be-banned.md"
   },
   {
@@ -12,7 +20,7 @@
     "title": "2024年最新 Claude 国内一站式注册升级订阅图文教程",
     "description": "介绍了Claude的特点和优势，推荐使用WildCard服务解决注册难题，教程包括访问官网、邮箱注册和海外手机号验证等步骤。强调选择Claude支持的国家节点，使用海外邮箱账户，挑选小众国家提高手机号验证成功率。",
     "date": "2024-12-01T16:45:29.699Z",
-    "lastModified": "2024-12-02T16:17:05Z",
+    "lastModified": "2025-02-04T15:41:49Z",
     "path": "data/md/how-to-register-claude.md"
   },
   {
@@ -28,7 +36,7 @@
     "title": "手把手教你国内 Claude升级教程，有支付宝就行！",
     "description": "本文介绍如何通过准备虚拟信用卡，使用支付宝充值，然后在Claude官网选择Pro订阅计划，填写虚拟卡信息和账单地址，完成升级到Claude Pro版本的步骤。",
     "date": "2024-12-09T14:28:29.329Z",
-    "lastModified": "2024-12-09T14:28:29Z",
+    "lastModified": "2024-12-09T14:31:19Z",
     "path": "data/md/how-to-upgrade-claude-pro.md"
   }
 ]
