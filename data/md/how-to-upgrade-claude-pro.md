@@ -4,7 +4,7 @@ description: >-
   本文介绍如何通过准备虚拟信用卡，使用支付宝充值，然后在Claude官网选择Pro订阅计划，填写虚拟卡信息和账单地址，完成升级到Claude
   Pro版本的步骤。
 date: '2024-12-09T14:28:29.329Z'
-lastModified: '2024-12-09T14:31:18.835Z'
+lastModified: '2025-07-09T17:45:17.330Z'
 ---
 > 前言：不知道怎么注册 Claude账号的朋友，请看教程：[2024年最新 Claude 国内一站式注册升级订阅图文教程](https://claudehelp.com/posts/how-to-register-claude)
 
@@ -53,7 +53,7 @@ Claude Pro特别适合以下用户：* 需要处理复杂任务的专业人士�
 
 #### WildCard注册
 
-官网地址：[https://wildcard.com.cn/](https://wildcard.com.cn/)
+官网地址：[https://yeka.ai](https://yeka.ai/i/GPTXYZ)
 
 点击【立即体验】——>【立即开通】，弹出【登录/注册】页面，通过手机验证码即可登录注册。
 
