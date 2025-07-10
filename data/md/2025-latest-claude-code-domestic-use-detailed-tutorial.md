@@ -5,17 +5,18 @@ description: >-
   Code，结合自然语言指令与IDE深度集成，支持前端、后端和DevOps开发任务。国内用户需科学上网、拥有Claude账号并开通Pro会员方可使用。安装依赖后，通过命令行或IDE启动Claude
   Code并描述需求即可使用。详细教程和常见问题可参考官方文档和相关介绍。
 date: '2025-07-09T17:43:14.939Z'
+lastModified: '2025-07-10T07:13:26.830Z'
 ---
 ## Claude Code 是什么？
 
-Claude Code 是 Anthropic 于2025年推出的 **AI编程助手**，基于 Claude 4.0 系列模型（Opus/Sonnet）构建，主打 **命令行交互** 与 **IDE深度集成**。它能理解完整代码库结构，通过自然语言指令完成从代码生成、调试到Git协作的全流程开发任务。
+**Claude Code** 是 Anthropic 于2025年推出的 **AI编程助手**，基于 Claude 4.0 系列模型（Opus/Sonnet）构建，主打 **命令行交互** 与 **IDE深度集成**。对于 **国内** 开发者而言，它能理解完整代码库结构，通过自然语言指令完成从代码生成、调试到Git协作的全流程开发任务，是提升开发效率的得力工具。
 
 ### 核心功能
 
-- **混合推理模式**：支持“极速响应”（简单任务）和“深度思考”（复杂编程）切换。
-- **全栈开发支持**：前端（React/Vue）、后端（Python/Java）、DevOps脚本全覆盖。
-- **实时工具调用**：2025年新增联网搜索、终端命令执行、文件API等功能。
-- **128K上下文**：可处理整个代码库或大型文档，无需拆分上下文。
+- **混合推理模式**：支持"极速响应"（简单任务）和"深度思考"（复杂编程）切换，**国内**网络环境下也能保持高效交互。
+- **全栈开发支持**：前端（React/Vue）、后端（Python/Java）、DevOps脚本全覆盖，满足 **国内** 互联网项目多样化需求。
+- **实时工具调用**：2025年新增联网搜索、终端命令执行、文件API等功能，**国内**开发者可通过代理配置实现无缝使用。
+- **128K上下文**：可处理整个代码库或大型文档，无需拆分上下文，特别适合 **国内** 复杂业务系统开发。
 
 ### Claude Code 有多强？
 
@@ -27,68 +28,71 @@ Claude Code 是 Anthropic 于2025年推出的 **AI编程助手**，基于 Claude
 
 “**地表最强！！** ”
 
-## Claude Code 国内使用前提？
+## Claude Code 国内使用前提
 
-Claude Code 是 Anthropic 出品的工具，自然和 Claude 的政策保持一致：不对国内用户开放。
+**Claude Code** 作为Anthropic的产品，目前不对 **国内** 用户直接开放服务。**国内**开发者如需使用，需满足以下条件：
 
-整体来说，国内用户使用 Claude Code，需要如下前提条件：
+1. **网络环境-科学上网**
+2. **Claude 账号注册**
+3. **订阅** **Claude Pro 及以上会员**
 
-1. 能科学上网
-2. 有 Claude 账号
-3. 至少开通 Claude Pro 会员
-
-### 科学上网
+### 网络环境-科学上网
 
 这一点不多说，相信能看到这篇文章的网友，基本都具备这个能力。如果不具备，可试试 [TAGInternet](https://tagss.pro/#/auth/xtv5RwKr)（或者 [TAGInternet国内](https://tagxx.vip)，邀请码：xtv5RwKr）。
 
 不对上网效果做任何保证，如有任何问题，请联系客服。
 
-### 拥有 Claude 账号
+### Claude 账号注册
 
-Claude 账号注册是出了名的难。注册 Claude 的过程，需要解决
+Claude 账号注册是出了名的难。注册 Claude 的过程，需要解决如下问题：
 
 1. **网络问题**
 2. **海外邮箱问题**
 3. **海外手机号问题**
 
-等问题。
-
 如果你不想折腾，请参考这篇文章👉 [2025年最新 Claude 国内一站式注册升级订阅图文教程](https://claudehelp.com/posts/how-to-register-claude "2025年最新 Claude 国内一站式注册升级订阅图文教程")
 
-### Claude 升级 Pro 会员
+### 订阅 Claude Pro 及以上会员
 
 Claude 用户等级有四级：
 
-1. 免费用户
-2. Pro 用户：20 美元/月
-3. Max 用户
+1. **免费用户**
+2. **Pro 用户：20 美元/月**
+3. **Max 用户**
 
-    1. 5 倍使用额度：100 美元/月
-    2. 20倍使用额度：200美元/月
+    1. **5 倍使用额度：100 美元/月**
+    2. **20倍使用额度：200美元/月**
 
 原本只有 max 用户才能使用 Claude Code，后来 Anthropic 公司为了让更多用户体验 Claude Code 的能力，将 Claude Code 的使用权限下放到了 Pro 会员用户。
 
 因此如果要使用 Claude Code，至少需要开通 Pro 会员才行。
 
-如果你不想折腾，请参考这篇文章👉 [手把手教你国内 Claude升级教程，有支付宝就行！](https://claudehelp.com/posts/how-to-upgrade-claude-pro "手把手教你国内 Claude升级教程，有支付宝就行！")。
+升级教程请参考这篇文章👉 [手把手教你国内 Claude升级教程，有支付宝就行！](https://claudehelp.com/posts/how-to-upgrade-claude-pro "手把手教你国内 Claude升级教程，有支付宝就行！")
 
 ## Claude Code 安装教程
 
-#### 步骤1：安装依赖
+#### 步骤1：基础环境配置
 
 ```bash
-# 检查Node.js版本
-node -v  # 需返回v18.0.0+
+# 检查Node.js版本（需v18.0.0+）
+node -v
 
-# 若未安装，使用nvm安装（Linux/macOS）
+# 国内用户推荐使用nvm安装Node.js（Linux/macOS）
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 nvm install 18
+
+# 配置npm国内镜像（解决安装缓慢问题）
+npm config set registry https://registry.npmmirror.com/
 ```
 
 #### 步骤2：安装Claude Code
 
 ```bash
+# 全局安装Claude Code
 npm install -g @anthropic-ai/claude-code
+
+# 验证安装
+claude --version
 ```
 
 #### 步骤3：初始化与认证
@@ -101,17 +105,16 @@ cd /path/to/your/project
 claude
 ```
 
-> 认证时需复按照提示制链接到浏览器，使用注册的Claude账号登录授权
+> **国内**用户认证提示：执行`claude`​后，复制生成的链接在浏览器中打开，使用Claude账号登录授权，将返回的令牌粘贴回终端即可完成认证。
 
 ### 3.3 IDE集成（可选）
 
 #### VS Code集成
 
-1. 安装插件：搜索“Claude Code”并启用。
-2. 配置路径：`Settings → Claude Code → Path`​ 设为`/usr/local/bin/claude`​。
-3. 使用方法：在终端输入`claude`​或通过命令面板调用“Claude Code: Start Session”。
+1. 方式一：扩展商店搜索“Claude Code”并安装。
+2. 方式二：在 vscode 或者 cursor 的终端中输入 claude，自动安装
 
-cursor 等同理。安装扩展，点击红色框框，处，即可启动：
+点击红色框框处，即可启动：
 
 ![image](https://tjjsjwhj-blog.oss-cn-beijing.aliyuncs.com/hexo/image-20250710012358-sgj6c6b.png)
 
@@ -132,10 +135,13 @@ cursor 等同理。安装扩展，点击红色框框，处，即可启动：
 
 ## 常见问题
 
-### 注册与账号
+### Claude Code 国内账户注册与订阅
 
-**Q1：账号被封如何解决？**   
-A：没什么好办法，只能重新注册了。不过平台会退已充值的会员费用，到也不用太担心。
+**Q1: 国内用户如何安全地订阅Claude Pro会员？**   
+A: 可以自己折腾，就是比较麻烦。还是建议使用虚拟信用卡服务商[WildCard（又名 yeka）](https://yeka.ai/i/GPTXYZ)的服务，手机号、邮箱、信用卡服务一条龙，可以省很多时间。
+
+**Q2: 账号被封禁后，已支付的费用能否退还？**   
+A: 根据Anthropic政策，账号封禁后会自动退还剩余订阅周期费用（通常3-7个工作日到账）。**国内**用户需确保支付方式支持退款接收。
 
 ### 安装与配置
 
@@ -151,8 +157,8 @@ A：检查`which claude`​路径是否与插件配置一致，重启IDE后重�
 
 ### 功能与限制
 
-**Q5：免费版和Pro版有何区别？**   
-A：免费版仅支持Sonnet模型（每小时5次请求），Pro版解锁Opus模型和无限使用次数。
+**Q5：能否分析本地私有仓库代码？会上传到云端吗？**   
+A: Claude Code默认仅上传必要的代码片段进行分析。**国内**用户可启用本地模式：`claude --local`​，确保代码不会离开本地环境，但此模式功能会受限
 
 **Q6：能否处理多语言项目？**   
 A：支持20+编程语言，包括Python/JavaScript/Java/C++等，可跨文件分析依赖关系。
