@@ -4,9 +4,11 @@ description: >-
   本文介绍如何通过准备虚拟信用卡，使用支付宝充值，然后在Claude官网选择Pro订阅计划，填写虚拟卡信息和账单地址，完成升级到Claude
   Pro版本的步骤。
 date: '2024-12-09T14:28:29.329Z'
-lastModified: '2025-07-09T17:45:17.330Z'
+lastModified: '2025-08-03T15:52:03.084Z'
 ---
-> 前言：不知道怎么注册 Claude账号的朋友，请看教程：[2024年最新 Claude 国内一站式注册升级订阅图文教程](https://claudehelp.com/posts/how-to-register-claude)
+> 前言：不推荐大家使用虚拟信用卡方案（知名虚拟信用卡服务商 WildCard 因 监管要求突然中止服务），建议通过 Claude 镜像网站使用 Claude 服务，体验完全一样，价格只有一半！！
+
+Claude 镜像网站购买地址：https://sc.i6ls.com/links/9BBA2C1F
 
 ## 引言
 
