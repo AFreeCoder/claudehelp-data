@@ -5,7 +5,7 @@ description: >-
   Code，结合自然语言指令与IDE深度集成，支持前端、后端和DevOps开发任务。国内用户需科学上网、拥有Claude账号并开通Pro会员方可使用。安装依赖后，通过命令行或IDE启动Claude
   Code并描述需求即可使用。详细教程和常见问题可参考官方文档和相关介绍。
 date: '2025-07-09T17:43:14.939Z'
-lastModified: '2025-07-10T07:13:26.830Z'
+lastModified: '2025-08-03T15:45:39.078Z'
 ---
 ## Claude Code 是什么？
 
@@ -50,7 +50,7 @@ Claude 账号注册是出了名的难。注册 Claude 的过程，需要解决�
 2. **海外邮箱问题**
 3. **海外手机号问题**
 
-如果你不想折腾，请参考这篇文章👉 [2025年最新 Claude 国内一站式注册升级订阅图文教程](https://claudehelp.com/posts/how-to-register-claude "2025年最新 Claude 国内一站式注册升级订阅图文教程")
+邮箱不多说，主要说说手机号的问题。一半使用 sms-active 等接码平台，不过成功率不高，需要反复尝试，最好使用小众地区的手机号。
 
 ### 订阅 Claude Pro 及以上会员
 
@@ -67,7 +67,14 @@ Claude 用户等级有四级：
 
 因此如果要使用 Claude Code，至少需要开通 Pro 会员才行。
 
-升级教程请参考这篇文章👉 [手把手教你国内 Claude升级教程，有支付宝就行！](https://claudehelp.com/posts/how-to-upgrade-claude-pro "手把手教你国内 Claude升级教程，有支付宝就行！")
+虚拟信用卡开通会员的方案已经不推荐了，还是有监管问题（比如之前信誉比较好的 wildcard，最近就因为监管问题被迫终止服务）
+
+**推荐方案**
+1. 安卓手机：谷歌商店绑定 visa 卡，通过商店升级 Claude
+2. 苹果手机：通过美区 Apple Id登录苹果商店，支付宝购买礼品卡，通过商店升级 Claude
+3. 使用 Claude Code 中转服务：推荐 https://sc.i6ls.com/links/9BBA2C1F，选 Claude Code 中转。
+
+如果 1、2 有折腾经验，更推荐 1、2，毕竟是官方途径，如果怕麻烦，推荐 方案3，可以先买个 10 块的体验套餐试试。
 
 ## Claude Code 安装教程
 
@@ -138,7 +145,7 @@ claude
 ### Claude Code 国内账户注册与订阅
 
 **Q1: 国内用户如何安全地订阅Claude Pro会员？**   
-A: 可以自己折腾，就是比较麻烦。还是建议使用虚拟信用卡服务商[WildCard（又名 yeka）](https://yeka.ai/i/GPTXYZ)的服务，手机号、邮箱、信用卡服务一条龙，可以省很多时间。
+A: 可以自己折腾，就是比较麻烦。建议使用 [Claude Code 中转代理服务](https://sc.i6ls.com/links/9BBA2C1F)，可以省很多时间。
 
 **Q2: 账号被封禁后，已支付的费用能否退还？**   
 A: 根据Anthropic政策，账号封禁后会自动退还剩余订阅周期费用（通常3-7个工作日到账）。**国内**用户需确保支付方式支持退款接收。
