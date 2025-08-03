@@ -5,7 +5,7 @@ description: >-
   Code，结合自然语言指令与IDE深度集成，支持前端、后端和DevOps开发任务。国内用户需科学上网、拥有Claude账号并开通Pro会员方可使用。安装依赖后，通过命令行或IDE启动Claude
   Code并描述需求即可使用。详细教程和常见问题可参考官方文档和相关介绍。
 date: '2025-07-09T17:43:14.939Z'
-lastModified: '2025-08-03T15:45:39.078Z'
+lastModified: '2025-08-03T15:45:51.672Z'
 ---
 ## Claude Code 是什么？
 
