@@ -5,7 +5,7 @@ description: >-
   Code，结合自然语言指令与IDE深度集成，支持前端、后端和DevOps开发任务。国内用户需科学上网、拥有Claude账号并开通Pro会员方可使用。安装依赖后，通过命令行或IDE启动Claude
   Code并描述需求即可使用。详细教程和常见问题可参考官方文档和相关介绍。
 date: '2025-07-09T17:43:14.939Z'
-lastModified: '2025-08-03T15:48:09.241Z'
+lastModified: '2025-08-27T16:34:41.489Z'
 ---
 ## Claude Code 是什么？
 
@@ -72,7 +72,7 @@ Claude 用户等级有四级：
 **推荐方案**
 1. **安卓手机**：谷歌商店绑定 visa 卡，通过商店升级 Claude
 2. **苹果手机**：通过美区 Apple Id登录苹果商店，支付宝购买礼品卡，通过商店升级 Claude
-3. 使用 Claude Code 中转服务：推荐[Claude Code 中转服务](https://sc.i6ls.com/links/9BBA2C1F)，选 Claude Code 中转。
+3. 使用 Claude Code 中转服务：推荐[Claude Code 中转服务](https://sc.i6ls.com//liebiao/4052C405D6DF6120)，选 Claude Code 中转。
 
 如果 1、2 有折腾经验，更推荐 1、2，毕竟是官方途径；如果怕麻烦，推荐 方案3，可以先买个 10 块的体验套餐试试。
 
@@ -145,7 +145,7 @@ claude
 ### Claude Code 国内账户注册与订阅
 
 **Q1: 国内用户如何安全地订阅Claude Pro会员？**   
-A: 可以自己折腾，就是比较麻烦。建议使用 [Claude Code 中转代理服务](https://sc.i6ls.com/links/9BBA2C1F)，可以省很多时间。
+A: 可以自己折腾，就是比较麻烦。建议使用 [Claude Code 中转代理服务](https://sc.i6ls.com//liebiao/4052C405D6DF6120)，可以省很多时间。
 
 **Q2: 账号被封禁后，已支付的费用能否退还？**   
 A: 根据Anthropic政策，账号封禁后会自动退还剩余订阅周期费用（通常3-7个工作日到账）。**国内**用户需确保支付方式支持退款接收。
