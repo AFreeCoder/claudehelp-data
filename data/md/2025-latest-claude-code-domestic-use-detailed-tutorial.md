@@ -5,7 +5,7 @@ description: >-
   Code，结合自然语言指令与IDE深度集成，支持前端、后端和DevOps开发任务。国内用户需科学上网、拥有Claude账号并开通Pro会员方可使用。安装依赖后，通过命令行或IDE启动Claude
   Code并描述需求即可使用。详细教程和常见问题可参考官方文档和相关介绍。
 date: '2025-07-09T17:43:14.939Z'
-lastModified: '2025-08-27T16:34:41.489Z'
+lastModified: '2025-10-05T17:51:07.425Z'
 ---
 ## Claude Code 是什么？
 
@@ -72,7 +72,7 @@ Claude 用户等级有四级：
 **推荐方案**
 1. **安卓手机**：谷歌商店绑定 visa 卡，通过商店升级 Claude
 2. **苹果手机**：通过美区 Apple Id登录苹果商店，支付宝购买礼品卡，通过商店升级 Claude
-3. 使用 Claude Code 中转服务：推荐[Claude Code 中转服务](https://sc.i6ls.com//liebiao/4052C405D6DF6120)，选 Claude Code 中转。
+3. 使用 Claude Code 中转服务：推荐[Claude Code 中转服务](https://qf.dtyuedan.cn/shop/F2OLER91/bz899b)，选 Claude Code 中转。
 
 如果 1、2 有折腾经验，更推荐 1、2，毕竟是官方途径；如果怕麻烦，推荐 方案3，可以先买个 10 块的体验套餐试试。
 
